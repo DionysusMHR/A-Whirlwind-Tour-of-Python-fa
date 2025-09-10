@@ -1,5 +1,5 @@
 # A-Whirlwind-Tour-of-Python-fa
- ترجمه آزاد کتاب A Whirlwind Tour of Python به فارسی
+## تور سریع السیر پایتون
 
 این مخزن ترجمه فارسی کتاب A Whirlwind Tour of Python نوشته Jake VanderPlas میباشد.
 مخزن پروژه  اصلی در [*A Whirlwind Tour of Python*](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp) موجود است که تحت مجوز  CC0  منتشر شده است.
