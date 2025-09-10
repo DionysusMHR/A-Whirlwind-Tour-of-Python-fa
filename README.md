@@ -1,2 +1,11 @@
 # A-Whirlwind-Tour-of-Python-fa
  ترجمه آزاد کتاب A Whirlwind Tour of Python به فارسی
+
+این مخزن ترجمه فارسی کتاب A Whirlwind Tour of Python نوشته Jake VanderPlas میباشد.
+مخزن پروژه  اصلی در [*A Whirlwind Tour of Python*](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp) موجود است که تحت مجوز  CC0  منتشر شده است.
+
+## معرفی کتاب و هدف از ترجمه
+این کتاب مقدمه ای کوتاه و سریع بر زبان پایتون است که برای توسعه دهندگانی که از قبل با برنامه نویسی به زبان های دیگری آشنا هستند، هدف قرار گرفته است.
+
+## مجوز
+این مخزن تحت مجوز CC0 منتشر شده است، بنابراین شما آزاد هستید که از آن استفاده کنید یا تغییر دهید.
